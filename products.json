@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"TABLET",
+        "price": 200,
+        "image": "./11.png"
+    },
+    {
+        "id": 2,
+        "name":"CELULAR",
+        "price": 250,
+        "image": "./3.png"
+    },
+    {
+        "id": 3,
+        "name":"CELULAR",
+        "price": 290,
+        "image": "./4.png"
+    },
+    {
+        "id": 4,
+        "name":"CELULAR",
+        "price": 200,
+        "image": "./8.png"
+    },
+    {
+        "id": 5,
+        "name":"CELULAR",
+        "price": 300,
+        "image": "./5.png"
+    },
+    {
+        "id": 6,
+        "name":"CELULAR",
+        "price": 200,
+        "image": "./6.png"
+    },
+    {
+        "id": 7,
+        "name":"PARLANTE",
+        "price": 200,
+        "image": "./7.png"
+    },
+    {
+        "id": 8,
+        "name":"CARGADO",
+        "price": 200,
+        "image": "./9.png"
+    }
+
+]
